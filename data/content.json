@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "logo": "UNILASER",
+    "links": [
+      { "label": "Home", "href": "/" },
+      { 
+        "label": "Oferta", 
+        "href": "/#oferta",
+        "sublinks": [
+          { "label": "Cięcie Szkła", "href": "/oferta/ciecie-szkla" },
+          { "label": "Cięcie Metalu", "href": "/#oferta" },
+          { "label": "Robotyzacja", "href": "/#oferta" }
+        ]
+      },
+      { "label": "Technologia", "href": "/#technology" },
+      { "label": "O Nas", "href": "/#about" },
+      { "label": "Kontakt", "href": "/#contact" }
+    ],
+    "cta": "Zapytaj o wycenę"
+  },
+  "hero": {
+    "badge": "Centrum Technologii Laserowych",
+    "titleLine1": "Witamy w",
+    "titleLine2": "UNILASER",
+    "description": "Odkryj nasze najnowocześniejsze maszyny do obróbki laserowej. Nasza firma we współpracy z firmą ROBOTY4U.PL zapewnia automatyzacje i robotyzację stanowisk pracy.",
+    "ctaPrimary": "Poznaj Maszyny",
+    "ctaSecondary": "Nasza Technologia",
+    "specs": {
+      "title": "Maszyny z Chin",
+      "items": [
+        { "label": "Jakość", "value": "Znakomity stosunek ceny do jakości" },
+        { "label": "Wsparcie", "value": "Serwis i Uruchomienie" }
+      ]
+    }
+  },
+  "video": {
+    "badge": "Wydajność na żywo",
+    "title": "Technologia w Ruchu",
+    "description": "W Unilaser nie tylko dostarczamy najwyższej klasy maszyny, ale także oferujemy profesjonalne usługi instalacyjne, aby zapewnić bezproblemową integrację z Twoją linią produkcyjną. Nasz oddany zespół zapewnia wyjątkową obsługę posprzedażną, zapewniając konserwację, naprawy i wsparcie techniczne, kiedy tylko tego potrzebujesz.",
+    "items": [
+      {
+        "title": "Instalacje",
+        "subtitle": "Profesjonalne Usługi"
+      },
+      {
+        "title": "Obsługa Posprzedażowa",
+        "subtitle": "wsparcie techniczne"
+      }
+    ]
+  },
+  "technology": {
+    "badge": "Innowacja",
+    "title": "Laser CNC do cięcia szkła",
+    "benefits": [
+      {
+        "icon": "verified",
+        "title": "Gwarancja jakości",
+        "description": "Zapewniamy najwyższe standardy jakości naszych maszyn do cięcia i spawania laserowego, zapewniając precyzyjne i niezawodne wyniki."
+      },
+      {
+        "icon": "sentiment_very_satisfied",
+        "title": "Satysfakcja klienta",
+        "description": "Naszym priorytetem jest zapewnienie wyjątkowej obsługi klienta, od wstępnych konsultacji po instalację i wsparcie posprzedażowe."
+      },
+      {
+        "icon": "lightbulb",
+        "title": "Innowacje i Elastyczność",
+        "description": "Stale wprowadzamy innowacje i dostosowujemy naszą technologię laserową, aby sprostać zmieniającym się potrzebom naszych klientów."
+      }
+    ],
+    "deepTech": {
+      "title": "Charakterystyka maszyny",
+      "description": "Wysokotemperaturowe łoże poddane obróbce cieplnej jest stabilne i trwałe. Obrabiarka przyjmuje integralną strukturę spawania profilowego. Wykończenie po wyżarzaniu znacznie poprawia sztywność oraz stabilność sprzętu. Oś X/Y wykorzystuje precyzyjny mechanizm przekładni śrubowej, który gwarantuje doskonałą dokładność.",
+      "list": [
+        "Przyspieszenie do 1,2 G",
+        "Doskonały i przyjazny system",
+        "Informacje zwrotne w czasie rzeczywistym"
+      ],
+      "statsTitle": "Dlaczego warto?",
+      "stats": [
+        { "label": "Redukcja odpadów", "value": "-25%" },
+        { "label": "Oszczędność czasu", "value": "3.5x" },
+        { "label": "Precyzja pozycjonowania", "value": "±0.01mm" }
+      ]
+    }
+  },
+  "comparison": {
+    "title": "Analiza Porównawcza",
+    "headers": ["Parametr", "Tradycyjne Diamenty", "Strumień Wody", "UNILASER CNC"],
+    "rows": [
+      {
+        "param": "Jakość krawędzi",
+        "col1": "Wymaga szlifowania",
+        "col2": "Matowa, szorstka",
+        "col3": "Polerowana optycznie"
+      },
+      {
+        "param": "Koszty eksploatacji",
+        "col1": "Wysokie (zużycie narzędzi)",
+        "col2": "Średnie (ścierniwo)",
+        "col3": "Niskie (tylko prąd)"
+      },
+      {
+        "param": "Elastyczność kształtów",
+        "col1": "Bardzo niska",
+        "col2": "Średnia",
+        "col3": "Nieograniczona"
+      },
+      {
+        "param": "Odpady materiałowe",
+        "col1": "Znaczne",
+        "col2": "Średnie",
+        "col3": "Minimalne (0.1mm szczelina)"
+      }
+    ]
+  },
+  "capabilities": {
+    "title": "Nasza Oferta",
+    "description": "Najnowocześniejsza technologia zapewniająca precyzję i wydajność w przedsiębiorstwach w Polsce i Europie Wschodniej.",
+    "items": [
+      { "label": "Oferta", "value": "Robotyzacja" },
+      { "label": "Maszyny", "value": "Gratowarki" },
+      { "label": "Logistyka", "value": "Żurawie" },
+      { "label": "Obróbka", "value": "Cięcie Metalu" },
+      { "label": "Usługi", "value": "Usuwanie Podlewu" },
+      { "label": "Szkło", "value": "Cięcie Szkła", "href": "/oferta/ciecie-szkla" }
+    ]
+  },
+  "about": {
+    "title": "O Nas",
+    "paragraphs": [
+      "Unilaser to firma, której można zaufać. Od ponad 20 lat działamy w dziedzinie maszyn przemysłowych do obróbki metalu i szkła. Dzięki wieloletniemu doświadczeniu oferujemy najwyższej jakości maszyny, aby sprostać różnorodnym potrzebom naszych klientów.",
+      "Nasz zespół ekspertów zapewnia bezproblemową instalację i doskonałą obsługę posprzedażową. Zależy nam na dostarczaniu innowacyjnych rozwiązań dla przedsiębiorstw w Polsce i Europie Wschodniej."
+    ],
+    "stats": [
+      { "value": "12+", "label": "Lat Doświadczenia" },
+      { "value": "150+", "label": "Wdrożonych Systemów" }
+    ]
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "description": "Nasi inżynierowie są gotowi odpowiedzieć na Twoje najbardziej techniczne pytania.",
+    "info": [
+      { "icon": "person", "title": "Osoba kontaktowa", "text": "Paweł Urbański" },
+      { "icon": "location_on", "title": "Siedziba", "text": "ul. Rosnąca 10\n04-708 Warszawa" },
+      { "icon": "call", "title": "Telefon", "text": "+48 501 072 717" },
+      { "icon": "mail", "title": "E-mail", "text": "kontakt@unilaser.pl" }
+    ],
+    "form": {
+      "nameLabel": "Imię i Nazwisko",
+      "namePlaceholder": "Jan Kowalski",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "jan@firma.pl",
+      "subjectLabel": "Temat",
+      "subjectOptions": ["Zapytanie ofertowe", "Wsparcie techniczne", "Serwis", "Inne"],
+      "messageLabel": "Wiadomość",
+      "messagePlaceholder": "Opisz swoje potrzeby...",
+      "submit": "Wyślij Wiadomość"
+    }
+  },
+  "footer": {
+    "description": "Pionier systemów laserowych dla przemysłu 4.0. Precision engineered, quality driven.",
+    "columns": [
+      {
+        "title": "Technologia",
+        "links": ["Cięcie Laserowe", "Grawerowanie", "Systemy CNC", "Automatyka"]
+      },
+      {
+        "title": "Zasoby",
+        "links": ["Privacy Policy", "Terms of Service", "Machine Safety", "Contact Support"]
+      }
+    ],
+    "office": {
+      "title": "Biuro",
+      "text": "Poniedziałek - Piątek\n08:00 - 17:00\n\nkontakt@unilaser.pl"
+    },
+    "copyright": "© 2026 UNILASER Industrial Systems. All rights reserved."
+  }
+}
