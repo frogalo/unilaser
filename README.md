@@ -55,3 +55,5 @@ Tylko najnowocześniejsze instrukcje napędzają ekosystem UNILASER:
 - **Tailwind CSS z customowym Systemem Designu** - Wprowadzone obszerne modyfikacje w pliku `globals.css` uwzględniające precyzyjnie definiowane palety stłumione techniczne jak: `primary`, `on-surface-variant`, `surface-container` budujące stoczniowy, szklany klimat (Theming zgodny pod Material/Technical UI).
 - **Google Fonts (Inter & Space Grotesk)**
 - **Material Symbols Outlined** - Typografia ikon bezpośrednio z fontów Googlowskich zapewniająca zerową stratę na czasie i rozdzielczości (skompilowane do lżejszych paczek).
+
+https://www.zpglasercnc.com/portfolio/3015h-safe-ultra-high-power-cutting-machine

@@ -7,9 +7,23 @@
         "label": "Oferta", 
         "href": "/#oferta",
         "sublinks": [
-          { "label": "Cięcie Szkła", "href": "/oferta/ciecie-szkla" },
+          { "label": "Robotyzacja", "href": "/#oferta" },
+          { "label": "Gratowarki", "href": "/#oferta" },
+          { "label": "Żurawie", "href": "/#oferta" },
           { "label": "Cięcie Metalu", "href": "/#oferta" },
-          { "label": "Robotyzacja", "href": "/#oferta" }
+          { "label": "Usuwanie Podlewu", "href": "/#oferta" },
+          { 
+            "label": "Wycinanie Laserowe", 
+            "href": "/oferta/wycinanie-laserowe",
+            "sublinks": [
+              { "label": "Do blach", "href": "/oferta/wycinanie-laserowe#blachy" },
+              { "label": "Do rur", "href": "/oferta/wycinanie-laserowe#rury" },
+              { "label": "Blachy i rury", "href": "/oferta/wycinanie-laserowe#hybrydy" },
+              { "label": "Spawarki", "href": "/oferta/wycinanie-laserowe#spawarki" },
+              { "label": "Czyszczarki", "href": "/oferta/wycinanie-laserowe#czyszczarki" },
+              { "label": "Znakowarki", "href": "/oferta/wycinanie-laserowe#znakowarki" }
+            ]
+          }
         ]
       },
       { "label": "Technologia", "href": "/#technology" },
@@ -118,12 +132,12 @@
     "title": "Nasza Oferta",
     "description": "Najnowocześniejsza technologia zapewniająca precyzję i wydajność w przedsiębiorstwach w Polsce i Europie Wschodniej.",
     "items": [
-      { "label": "Oferta", "value": "Robotyzacja" },
-      { "label": "Maszyny", "value": "Gratowarki" },
-      { "label": "Logistyka", "value": "Żurawie" },
-      { "label": "Obróbka", "value": "Cięcie Metalu" },
-      { "label": "Usługi", "value": "Usuwanie Podlewu" },
-      { "label": "Szkło", "value": "Cięcie Szkła", "href": "/oferta/ciecie-szkla" }
+      { "label": "Automatyka", "value": "Robotyzacja", "href": "/#oferta" },
+      { "label": "Maszyny", "value": "Gratowarki", "href": "/#oferta" },
+      { "label": "Logistyka", "value": "Żurawie", "href": "/#oferta" },
+      { "label": "Obróbka", "value": "Cięcie Metalu", "href": "/#oferta" },
+      { "label": "Usługi", "value": "Usuwanie Podlewu", "href": "/#oferta" },
+      { "label": "Szkło", "value": "Wycinanie Laserowe", "href": "/oferta/wycinanie-laserowe" }
     ]
   },
   "about": {
